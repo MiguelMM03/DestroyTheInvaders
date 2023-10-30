@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="Destroy The Invaders" target="introduccion"/>
+  <tocitem text="Registro" target="registro"/>
+  <tocitem text="Componentes" target="componentes"/>
+  <tocitem text="Desarrollo" target="desarrollo"/>
+  <tocitem text="Personajes" target="personajes"/>
+  <tocitem text="Puntuacion" target="puntuacion"/>
+  <tocitem text="Fin de partida" target="finDePartida"/>
+  <tocitem text="Escoger un premio" target="premio"/>
+
+</toc>

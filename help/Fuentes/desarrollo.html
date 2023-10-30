@@ -1,0 +1,27 @@
+<html>
+
+<head>
+	<title>Desarrollo de la partida</title>
+	<link rel=StyleSheet type="text/css" href="css/estilo.css" /> 
+</head>
+
+<body>
+	<h1>Desarrollo de la partida</h1>
+	El territorio tiene tamaño 7x7 y en él se pueden localizar los invasores, excepto en las esquinas y en el centro del mismo. 
+	El juego comienza con cinco invasores colocados de manera aleatoria y a partir de ahí, el jugador tiene que colocar unos 
+	invasores generados aleatoriamente (cinco por ronda) con el fin de formar colonias. 
+	Hay ocho tipos de invasores, de los cuáles uno es el cabecilla o líder de la invasión, por lo que tiene una mayor importancia
+	a la hora de acabar la partida (explicado en el apartado "Puntuación" y "Fin de partida"). 
+	Las colonias son agrupaciones de invasores del mismo tipo que se encuentran en la misma fila o columna (para considerarse 
+	colonia tiene que haber, como mínimo, tres invasores del mismo tipo agrupados).Las colonias formadas se comprueban al final
+	de cada ronda y los invasores que pertenezcan a cada una serán eliminados del tablero, incrementando a su vez los puntos obtenidos.
+	<br>
+	<p>El juego termina cuando se cumple alguna de las siguientes opciones:</p>
+	<ul>
+	<li>El tablero está completamente ocupado por invasores: el jugador pierde y se queda sin puntos</li>
+	<li>Se han completado todas las iteraciones: el jugador gana y conserva los puntos obtenidos en su partida</li>
+	<li>Se han eliminado una colonia de al menos cinco invasores de tipo cabecilla: el jugador gana y consigue 20000 puntos extra</li>
+	</ul>
+</body>
+
+</html>

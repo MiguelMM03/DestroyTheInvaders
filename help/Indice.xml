@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<index version="1.0">
+
+  <indexitem text="Destroy The Invaders" target="introduccion"/>
+  <indexitem text="Registro" target="registro"/>
+  <indexitem text="Componentes" target="componentes"/>
+  <indexitem text="Desarrollo" target="desarrollo"/>
+  <indexitem text="Personajes" target="personajes"/>
+  <indexitem text="Puntuacion" target="puntuacion"/>
+  <indexitem text="Fin de partida" target="finDePartida"/>
+  <indexitem text="Escoger un premio" target="premio"/>
+  <indexitem text="¿Cómo jugar?" target="introduccion" />
+  <indexitem text="Descripción de Destroy The Invaders" target="introduccion" />
+  <indexitem text="Vista del tablero de juego" target="componentes" />
+  <indexitem text="¿Cuándo termina la partida" target="finDePartida" />
+   <indexitem text="¿Cómo escoger un premio?" target="premio" />
+   <indexitem text="¿Cómo eliminar un premio?" target="premio" />
+    
+</index>

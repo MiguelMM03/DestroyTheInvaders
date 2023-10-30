@@ -1,0 +1,29 @@
+ body { 
+ 	font-size:14pt;
+	font-family: Helvetica, Geneva, Arial, sans-serif;
+	color: black 
+} 
+p{
+	text-align:justify;
+}
+
+ h1 { 	
+ 	font-size:24pt;
+	font-family: Helvetica, Geneva, Arial, sans-serif;
+	color: red
+} 
+ h2 { 	
+ 	font-size:20pt;
+	font-family: Helvetica, Geneva, Arial, sans-serif;
+	color: orange
+} 
+ h3 { 	
+ 	font-size:16pt;
+	font-family: Helvetica, Geneva, Arial, sans-serif;
+	color: black
+} 
+ ul {	
+ 	list-style-type: circle;
+ }
+img{
+}
